@@ -8,7 +8,7 @@ This is a simple, longitudinal set of histograms showing the distribution of sur
 ### Nick's Group Response
 
 <iframe 
-    src="gender_percentage_chart.html" 
+    src="_includes/gender_percentage_chart.html" 
     width="100%" 
     height="600px" 
     frameborder="0">
