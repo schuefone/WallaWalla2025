@@ -3,6 +3,6 @@ Some data visualizations from 20 years of [ACS](https://www.census.gov/programs-
 
 ## WA ACS, Age/Sex Histogram, 2004-2023 ##
 {% include WA-Ages.html %}
-Caption: blah, blah, blah
+This is a simple, longitudinal set of histograms showing the distribution of survey respondents by age and sorted by sex for each year from 2004 through 2023. (Albert Schueller)
 
 
